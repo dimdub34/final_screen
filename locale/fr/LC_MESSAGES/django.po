@@ -1,0 +1,35 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-01-24 16:21+0100\n"
+"PO-Revision-Date: 2018-01-24 16:22+0100\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"X-Generator: Poedit 1.8.7.1\n"
+
+#: templates/final_screen/Final.html:6
+msgid "End of the experiment"
+msgstr "Fin de l'expérience"
+
+#: templates/final_screen/Final.html:11
+msgid "The experiment is over. Your payoff is equal to "
+msgstr "L'expérience est terminée. Votre gain pour l'expérience est de "
+
+#: templates/final_screen/Final.html:15
+msgid "You can write some comments about the experiment below"
+msgstr "Vous pouvez écrire des commentaires sur l'expérience dans la zone ci-dessous"
+
+#: templates/final_screen/Final.html:19
+msgid "Save"
+msgstr "Enregistrer"
