@@ -14,8 +14,4 @@ class Final_after_comments(Page):
     pass
 
 
-class Results(Page):
-    pass
-
-
 page_sequence = [Final, Final_after_comments]
